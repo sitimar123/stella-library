@@ -27,7 +27,6 @@ Stella Library adalah aplikasi perpustakaan berbasis web yang dibuat menggunakan
 - HTML
 - CSS
 - JavaScript
-- Bootstrap (jika digunakan dalam project)
 
 ⚙️ Cara Instalasi
 
